@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Python Crash Course",
+    "author":"Marijn Haverbeke",
+    "publication_year": 2011 (3rd Edition: 2018),
+    "genree":"programming",
+    "read_status": false,
+    "added_date":"2025-03-11  11:36:40"
+  },
+  {
+     "title": "Think Python: How to Think Like a Computer Scientist",
+    "author": "Allen B. Downey",
+    "publication_year": 2012 (Updated: 2015),
+    "genre": "Python Programming (Beginner)",
+    "read_status": true,
+    "added_date":"2025-03-11  3:36:40"
+  },
+  {
+    "title": "An Introduction to Computer Science",
+    "author": " John Zelle",
+    "publication_year":  "2003 (Updated: 2016)",
+    "genre": "Computer Science, Python Basics",
+    "read_status": false,
+    "added_date":"2025-03-11  4:15:40"
+  {
+     "title": "Python for Data Analysis",
+    "author": " Wes McKinney",
+    "publication_year":  " 2012 (Updated: 2017)",
+    "genre": "Data Science, Pandas, NumPy",
+    "read_status": true,
+    "added_date":"2025-03-11  4:45:2"
+  },
+]
