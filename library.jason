@@ -1,33 +1,82 @@
 [
   {
+    "title": "Automate the Boring Stuff with Python",
+    "author": "Al Sweigart",
+    "year": 2015,
+    "genre": "Programming",
+    "read": true,
+    "added_date": "2025-03-20"
+  },
+  {
     "title": "Python Crash Course",
-    "author":"Marijn Haverbeke",
-    "publication_year": 2011 (3rd Edition: 2018),
-    "genree":"programming",
-    "read_status": false,
-    "added_date":"2025-03-11  11:36:40"
+    "author": "Eric Matthes",
+    "year": 2019,
+    "genre": "Programming",
+    "read": false,
+    "added_date": "2025-03-20"
   },
   {
-     "title": "Think Python: How to Think Like a Computer Scientist",
-    "author": "Allen B. Downey",
-    "publication_year": 2012 (Updated: 2015),
-    "genre": "Python Programming (Beginner)",
-    "read_status": true,
-    "added_date":"2025-03-11  3:36:40"
+    "title": "Fluent Python",
+    "author": "Luciano Ramalho",
+    "year": 2015,
+    "genre": "Programming",
+    "read": true,
+    "added_date": "2025-03-20"
   },
   {
-    "title": "An Introduction to Computer Science",
-    "author": " John Zelle",
-    "publication_year":  "2003 (Updated: 2016)",
-    "genre": "Computer Science, Python Basics",
-    "read_status": false,
-    "added_date":"2025-03-11  4:15:40"
-  {
-     "title": "Python for Data Analysis",
-    "author": " Wes McKinney",
-    "publication_year":  " 2012 (Updated: 2017)",
-    "genre": "Data Science, Pandas, NumPy",
-    "read_status": true,
-    "added_date":"2025-03-11  4:45:2"
+    "title": "Mastering Next.js",
+    "author": "Tim Neutkens",
+    "year": 2021,
+    "genre": "Web Development",
+    "read": false,
+    "added_date": "2025-03-20"
   },
+  {
+    "title": "Fullstack React with Next.js",
+    "author": "David Guttman",
+    "year": 2020,
+    "genre": "Web Development",
+    "read": true,
+    "added_date": "2025-03-20"
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "year": 2018,
+    "genre": "Motivational",
+    "read": true,
+    "added_date": "2025-03-20"
+  },
+  {
+    "title": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "year": 1989,
+    "genre": "Motivational",
+    "read": false,
+    "added_date": "2025-03-20"
+  },
+  {
+    "title": "The Sealed Nectar (Ar-Raheeq Al-Makhtum)",
+    "author": "Safi-ur-Rahman Al-Mubarakpuri",
+    "year": 1979,
+    "genre": "Islamic",
+    "read": true,
+    "added_date": "2025-03-20"
+  },
+  {
+    "title": "In the Footsteps of the Prophet",
+    "author": "Tariq Ramadan",
+    "year": 2007,
+    "genre": "Islamic",
+    "read": false,
+    "added_date": "2025-03-20"
+  },
+  {
+    "title": "Don't Be Sad",
+    "author": "Dr. Aaidh al-Qarni",
+    "year": 2001,
+    "genre": "Islamic",
+    "read": true,
+    "added_date": "2025-03-20"
+  }
 ]
